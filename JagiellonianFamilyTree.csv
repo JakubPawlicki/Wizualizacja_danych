@@ -1,7 +1,7 @@
 id,name,died,father_id,king,partner
-1,Giedymin,1341,-,0,-
+1,Giedymin,1341,-,0,-,28
 2,Olgierd,1377,1,0,22
-3,Kiejsut,1382,1,0,-
+3,Kiejsut,1382,1,0,-,26
 4,Aldona Anna,1339,1,0,-
 5,Władysław Jagiełło,1434,2,1,21
 6,Witold,1430,3,0,-
@@ -24,3 +24,5 @@ id,name,died,father_id,king,partner
 23, Anna de Foix,1506,-,0,9
 24, Bona Sforza,1557,-,0,13
 25, Jan III Waza,1592,-,0,17
+26, Biruta,1382,-,0,3
+27,Jewna,1344,-,0,1
