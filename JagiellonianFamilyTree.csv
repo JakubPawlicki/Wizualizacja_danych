@@ -1,20 +1,26 @@
-id,name,died,father_id,king
-1,Giedymin,1341,-,0
-2,Olgierd,1377,1,0
-3,Kiejsut,1382,1,0
-4,Aldona Anna,1339,1,0
-5,Władysław Jagiełło,1434,2,1
-6,Witold,1430,3,0
-7,Władysław Warneńczyk,1444,5,1
-8,Kazimierz Jagiellończyk,1492,5,1
-9,Władysław II,1516,8,0
-10,Kazimierz,1484,8,0
-11,Jan Olbracht,1501,8,1
-12,Aleksander,1506,8,1
-13,Zygmunt Stary,1548,8,1
-14,Fryderyk,1503,8,0
-15,Ludwik II (Lajosz),1526,9,0
-16,Zygmunt August,1572,13,1
-17,Katarzyna,1583,13,0
-18,Anna Jagiellońska,1596,13,0
-19,Zygmunt III Waza,1632,17,1
+id,name,died,father_id,king,partner
+1,Giedymin,1341,-,0,-
+2,Olgierd,1377,1,0,22
+3,Kiejsut,1382,1,0,-
+4,Aldona Anna,1339,1,0,-
+5,Władysław Jagiełło,1434,2,1,21
+6,Witold,1430,3,0,-
+7,Władysław Warneńczyk,1444,5,1,-
+8,Kazimierz Jagiellończyk,1492,5,1,20
+9,Władysław II,1516,8,0,23
+10,Kazimierz,1484,8,0,-
+11,Jan Olbracht,1501,8,1,-
+12,Aleksander,1506,8,1,-
+13,Zygmunt Stary,1548,8,1,24
+14,Fryderyk,1503,8,0,-
+15,Ludwik II (Lajosz),1526,9,0,-
+16,Zygmunt August,1572,13,1,-
+17,Katarzyna Jagiellonka,1583,13,0,25
+18,Anna Jagiellońska,1596,13,0,-
+19,Zygmunt III Waza,1632,17,1,-
+20, Elżbieta Rakuszanka,1505,-,0,8
+21, Zofia Holszańska,1461,-,0,6
+22, Julianna Twerska,1392,-,0,2
+23, Anna de Foix,1506,-,0,9
+24, Bona Sforza,1557,-,0,13
+25, Jan III Waza,1592,-,0,17
